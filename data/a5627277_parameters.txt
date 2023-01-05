@@ -1,0 +1,16 @@
+LineL=0.4
+eps=4
+Dal=0.028
+Da=0.005
+AntennaLength=0.10
+kz=0.1
+df=0.1
+dx=lambda0 * 5
+dx0=0.6
+dy=lambda0 * 5
+f0=0.8
+f_max=f0 + df/2
+f_min=f0 - df/2
+lambda0=0.3/f0
+x0=1.8
+z0=x0 * kz
